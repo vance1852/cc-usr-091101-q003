@@ -1,0 +1,4 @@
+[
+  {"event_id":"cb-301","attempt_id":"try-7","status":"failed","occurred_at":"2026-09-10T05:01:00Z","error_code":"TIMEOUT"},
+  {"event_id":"cb-302","attempt_id":"try-8","status":"succeeded","occurred_at":"2026-09-10T05:00:58Z","asset_sha256":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa","width":1080,"height":1920}
+]

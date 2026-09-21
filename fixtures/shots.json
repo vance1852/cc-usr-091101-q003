@@ -1,0 +1,5 @@
+[
+  {"shot_id": "SH-01", "scene_id": "SC-01", "description": "林雪转身回望，夜雨霓虹", "characters": ["林雪"], "aspect": "9:16"},
+  {"shot_id": "SH-02", "scene_id": "SC-01", "description": "霓虹招牌特写，雨丝划过", "characters": [], "aspect": "9:16"},
+  {"shot_id": "SH-03", "scene_id": "SC-02", "description": "林雪走入地铁站，长镜头跟拍", "characters": ["林雪"], "aspect": "9:16"}
+]
